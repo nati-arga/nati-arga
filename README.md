@@ -2,7 +2,7 @@
 - Soy @nati-arga
 - Estudio Artes Multimediales
 - Vivo en Buenos Aires, Argentina
-- 2023
+
 
 <!--
 **nati-arga/nati-arga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
